@@ -1,0 +1,19 @@
+.container {
+    padding: 20px;
+  }
+  
+  .cart {
+    margin: 20px 0;
+   
+  }
+  
+  .cart-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .cart-item:last-child {
+    border-bottom: none;
+  }
